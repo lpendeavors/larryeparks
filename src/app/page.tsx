@@ -241,7 +241,7 @@ export default async function Home() {
             Building apps, pushing code, shaping ideas.
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-            I’m Larry, a full-stack developer from Fulshear, TX, driven by a
+            I’m Larry, a full-stack developer from Houston, TX, driven by a
             passion for learning and tackling new challenges. Whether it’s
             building scalable apps or diving into videography, I love pushing
             the limits of creativity. One day, I aim to turn my personal
